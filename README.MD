@@ -2,6 +2,8 @@
 [<img src="http://demos.artbees1.netdna-cdn.com/jupiter5/wp-content/uploads/2014/08/logo-sticky1.png"><img width="203" alt="screen shot 2017-05-10 at 11 29 54 am" src="https://cloud.githubusercontent.com/assets/5034551/25909972/7ccea0fe-3574-11e7-81f0-229c38c92867.png">](http://demos.artbees.net/jupiter5/)
 
 ***
+TAGS: Jupiter, Jupiter 5, Jupiter 5.9.2, Jupiter Child, Jupiter Child Theme, Child Theme, Wordpress, Wordpress Child Theme
+***
 # Important NOTES
 - You will not receive a copy of the theme from me; do not ask.
 - I do not provide support for the parent theme, and/or customizations.
