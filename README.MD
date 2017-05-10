@@ -7,7 +7,7 @@ TAGS: Jupiter, Jupiter 5, Jupiter 5.9.2, Jupiter Child, Jupiter Child Theme, Chi
 # Important NOTES
 - You will not receive a copy of the theme from me; do not ask.
 - I do not provide support for the parent theme, and/or customizations.
-- I am not affialated, nor do I contract for Artbees - the maker of the Jupiter Theme.
+- I am not affiliated, nor do I contract for Artbees - the maker of the Jupiter Theme.
 
 ## You will need to alter the parent theme folder's function.php 
 - Changes listed below
